@@ -9,5 +9,4 @@ public class ProcessadorClassifierJobApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ProcessadorClassifierJobApplication.class, args);
 	}
-
 }
